@@ -73,4 +73,3 @@ To design and secure large-scale cloud infrastructure aligned with modern enterp
 ## Contact
 
 LinkedIn: (www.linkedin.com/in/abdulrahman-esam-3a94342b6)
-Email: (Professional email)
