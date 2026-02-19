@@ -4,74 +4,73 @@
 </h1>
 
 ---
-# Abdulrahman Essam Elsayed
+# Abdulrahman Essam ElSayed
 
-Cloud & Cybersecurity Engineer in progress | Networking & Systems Specialist
-
----
-
-## Profile
-
-Engineering-focused student building strong foundations in Networking, Systems Administration, and Cloud Security.
-
-I approach infrastructure with a security-first mindset, emphasizing reliability, automation, and scalability.  
-Currently developing hands-on expertise through lab environments and real-world simulations.
+Cloud & Security Engineering | Networking & Infrastructure
 
 ---
 
-## Core Competencies
+## Engineering Statement
 
-**Networking**
-- CCNA-level knowledge
-- TCP/IP, Subnetting, VLANs, Routing Protocols
-- Network Troubleshooting & Packet Analysis
+I am building deep expertise in networking, systems, and cloud security with a strong focus on infrastructure reliability and secure architecture.
 
-**Systems Administration**
-- Windows Server (Active Directory fundamentals)
-- Linux Administration (CLI-driven environments)
-- User & Permission Management
-- Bash scripting for automation
+My goal is not only to understand technologies — but to design, secure, and optimize them.
 
-**Cloud & DevOps Fundamentals**
-- Git & GitHub workflows
-- Infrastructure concepts (IaaS / PaaS / SaaS)
+---
+
+## Technical Foundation
+
+### Networking
+- Strong TCP/IP & subnetting knowledge
+- Routing & switching fundamentals
+- Network troubleshooting methodology
+- Packet-level traffic understanding
+
+### Systems
+- Linux administration (CLI-focused)
+- Windows Server & Active Directory fundamentals
+- Access control & permission models
+- Shell scripting for operational efficiency
+
+### Cloud & Infrastructure
+- Cloud service models (IaaS, PaaS, SaaS)
 - Identity & Access Management principles
-- Basic cloud security architecture concepts
+- Infrastructure security concepts
+- Git-based workflow & version control
 
-**Security**
-- Network Security Fundamentals
-- Threat Modeling Basics
-- Hardening & Secure Configuration Practices
-- Understanding of SOC & Defensive Operations
-
----
-
-## Engineering Approach
-
-- Security-first design
-- Practical, lab-driven learning
-- Documentation-focused workflow
-- Continuous improvement mindset
+### Security
+- Network hardening principles
+- Threat awareness & attack surface understanding
+- Secure configuration practices
+- Defensive security mindset
 
 ---
 
-## Current Focus
+## What I Value
 
-- Advanced Linux administration
-- Cloud security architecture
-- Automation & scripting
-- Building security-oriented infrastructure projects
-
----
-
-## Long-Term Objective
-
-To become a Cloud Security Engineer capable of designing and securing enterprise-grade infrastructure.
+- Clean architecture
+- Security-first infrastructure
+- Automation over repetition
+- Continuous technical improvement
 
 ---
 
-## Professional Links
+## Currently Developing
 
-LinkedIn: (Add your link)  
+- Advanced Linux system internals
+- Cloud security architecture patterns
+- Infrastructure automation
+- Practical security-driven lab environments
+
+---
+
+## Long-Term Vision
+
+To design and secure large-scale cloud infrastructure aligned with modern enterprise security standards.
+
+---
+
+## Contact
+
+LinkedIn: (www.linkedin.com/in/abdulrahman-esam-3a94342b6)
 Email: (Professional email)
-
