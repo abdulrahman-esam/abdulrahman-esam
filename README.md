@@ -1,4 +1,9 @@
+<h1 align="center">
+  <a href="#">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=009503&center=true&width=435&lines=Hi+I'm+Abdulrahman+;Nice+to++see+you+here" alt="Typing SVG" /></a>
+</h1>
+
+---
 # Abdulrahman Essam Elsayed
 
 Cloud & Cybersecurity Engineer in progress | Networking & Systems Specialist
